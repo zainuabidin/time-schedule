@@ -1,3 +1,8 @@
+Deployed link :https://zainuabidin.github.io/time-schedule/
+Git hub link : https://github.com/zainuabidin/time-schedule/edit/master/README.md
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
